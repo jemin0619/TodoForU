@@ -4,4 +4,4 @@
 ⚪ 2023년도 1학기 개별프로젝트 작품
 </p>
 
-### [Manual 확인](https://github.com/jemin0619/TodoForU/blob/main/Manual.pdf)
+### ⚪ [Manual 확인](https://github.com/jemin0619/TodoForU/blob/main/Manual.pdf)
